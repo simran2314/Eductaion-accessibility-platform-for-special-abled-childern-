@@ -252,7 +252,7 @@
 <body>
   <!-- Your HTML body... -->
   <div class="container">
-    <h1>Registration form</h1>
+    <h1><b>Registration form </b></h1>
     <div class="form-container">
       <form onsubmit="submitForm(event)" action="#" method="POST">
         <div class="input-name">
